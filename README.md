@@ -6,6 +6,7 @@
 
 | 文章 | 年份 |
 |------|------|
+| [读《鲜血梅花》：漫游、命运与活着](essays/11-blood-plum-blossom/index.zh.md) | 2023 |
 | [性格敏感，会活得累吗](essays/09-sensitive-in-travel/index.zh.md) | 2026 |
 | [当一个人离开后才读懂他 · 方大同](essays/10-fang-datong-memorial/index.zh.md) | 2025 |
 | [教妈妈学视频剪辑：从刘女士到刘导](essays/06-mom-video-editing/index.zh.md) | 2024 |
