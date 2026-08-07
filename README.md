@@ -5,7 +5,7 @@
 ## 目录 · Contents
 
 | 中文 | English | 备注 |
-|------|------|
+|------|---------|------|
 | [读《鲜血梅花》：漫游、命运与活着](essays/11-blood-plum-blossom/index.zh.md) | 待补 | 2023 |
 | [性格敏感，会活得累吗](essays/09-sensitive-in-travel/index.zh.md) | 待补 | 2026 |
 | [当一个人离开后才读懂他 · 方大同](essays/10-fang-datong-memorial/index.zh.md) | 待补 | 2025 |
