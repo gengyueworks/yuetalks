@@ -7,6 +7,7 @@
 | 中文 | English | 备注 |
 |------|---------|------|
 | [读《鲜血梅花》：漫游、命运与活着](essays/11-blood-plum-blossom/index.zh.md) | 待补 | 2023 |
+| [旅途中的禅意](essays/12-chan-zen-travel/index.zh.md) | 待补 | 2021 |
 | [性格敏感，会活得累吗](essays/09-sensitive-in-travel/index.zh.md) | 待补 | 2026 |
 | [当一个人离开后才读懂他 · 方大同](essays/10-fang-datong-memorial/index.zh.md) | 待补 | 2025 |
 | [教妈妈学视频剪辑：从刘女士到刘导](essays/06-mom-video-editing/index.zh.md) | 待补 | 2024 |
@@ -16,7 +17,7 @@
 | [你会从天上漫着的云朵上，走下来](essays/05-from-the-clouds/index.zh.md) | 待补 | 2018 |
 | [无问西东，我看见了一腔珍贵的赤子之心](essays/forever-young/index.zh.md) | 待补 | 2018 |
 | [那些平凡的青春日子，我带着耳机听小红莓。](essays/the-cranberries/index.zh.md) | 待补 | 2018 |
-| [好心情清单 活下去的理由](essays/reasons-to-live/index.zh.md) |
+| [好心情清单 活下去的理由](essays/reasons-to-live/index.zh.md) | 待补 | — |
 
 ---
 
