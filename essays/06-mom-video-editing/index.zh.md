@@ -5,7 +5,7 @@ city: 新疆
 author: 耿悦
 publish_date: 2024-03-09
 first_published_on: 知乎
-original_url: 
+original_url: https://www.zhihu.com/question/646639857/answer/3422550938
 ---
 
 # 教妈妈学视频剪辑
@@ -84,3 +84,8 @@ original_url:
 ## 版权
 
 本文为耿悦原创，版权所有。未经许可不得转载或商业使用。
+
+
+---
+
+原文链接：[https://www.zhihu.com/question/646639857/answer/3422550938](https://www.zhihu.com/question/646639857/answer/3422550938)

@@ -185,3 +185,8 @@ Ta 们未必见过我们，却通过音乐给予了我们关怀和能量。
 但很关键的，是那份你祝福他人的心志，和意愿。
 
 We Find Love in Hopeless Places. ❤️
+
+
+---
+
+原文链接：[https://www.zhihu.com/question/57065901/answer/69509356075](https://www.zhihu.com/question/57065901/answer/69509356075)

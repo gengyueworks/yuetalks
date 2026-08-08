@@ -116,3 +116,8 @@ Hope you never grow old.
 ---
 
 *旧文。写于 2018-01-16，纪念小红莓主唱 Dolores O'Riordan。*
+
+
+---
+
+原文链接：[https://zhuanlan.zhihu.com/p/458176605](https://zhuanlan.zhihu.com/p/458176605)

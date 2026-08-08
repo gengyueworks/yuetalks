@@ -5,7 +5,7 @@ city: 青岛
 author: 耿悦
 publish_date: 2024-01-07
 first_published_on: 知乎
-original_url: 
+original_url: https://www.zhihu.com/question/637841524/answer/3351394164
 ---
 
 # 青岛外卖员事件 · 请世界不要太冷漠
@@ -79,3 +79,8 @@ original_url:
 ## 版权
 
 本文为耿悦原创，版权所有。未经许可不得转载或商业使用。
+
+
+---
+
+原文链接：[https://www.zhihu.com/question/637841524/answer/3351394164](https://www.zhihu.com/question/637841524/answer/3351394164)
